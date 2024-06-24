@@ -1,4 +1,12 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 👋
+
+Olá, meu nome é Sofia e estou cursando tecnogia e inovação na rede estadual.
+
+ O que está fazendo (p5js): No p5js estamos aprendendo a programar.
+
+ Para que criou o GitHub: Para guardar os meus projetos.
+
+Contato: 00001111762934sp@al.educacao.sp.gov.br
 
 <!--
 **Sofiasegundo29022008/Sofiasegundo29022008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
